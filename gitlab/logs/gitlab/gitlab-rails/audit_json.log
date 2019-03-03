@@ -1,0 +1,7 @@
+# Logfile created on 2019-03-03 07:25:33 +0000 by logger.rb/61378
+{"severity":"INFO","time":"2019-03-03T07:25:33.892Z","correlation_id":"PvIvbQxcLW8","author_id":2,"entity_id":2,"entity_type":"User","with":"standard","target_id":2,"target_type":"User","target_details":"Carbon"}
+{"severity":"INFO","time":"2019-03-03T07:27:57.277Z","correlation_id":"9OwYVvmfRo2","author_id":1,"entity_id":1,"entity_type":"User","with":"standard","target_id":1,"target_type":"User","target_details":"Administrator"}
+{"severity":"INFO","time":"2019-03-03T07:47:05.068Z","correlation_id":"y6FN40uO7F5","author_id":2,"entity_id":2,"entity_type":"User","with":"standard","target_id":2,"target_type":"User","target_details":"Carbon"}
+{"severity":"INFO","time":"2019-03-03T07:53:29.190Z","correlation_id":"K34YYMrQ8A8","author_id":2,"entity_id":2,"entity_type":"User","with":"standard","target_id":2,"target_type":"User","target_details":"Carbon"}
+{"severity":"INFO","time":"2019-03-03T08:46:11.378Z","correlation_id":"oPgUfbVFeM2","author_id":1,"entity_id":1,"entity_type":"User","with":"standard","target_id":1,"target_type":"User","target_details":"Administrator"}
+{"severity":"INFO","time":"2019-03-03T08:49:58.670Z","correlation_id":"IFEYysP9PW6","author_id":2,"entity_id":2,"entity_type":"User","with":"standard","target_id":2,"target_type":"User","target_details":"Carbon"}

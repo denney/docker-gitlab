@@ -1,0 +1,30 @@
+# Logfile created on 2019-03-03 06:39:43 +0000 by logger.rb/61378
+March 03, 2019 06:39: User "Administrator" (admin@example.com) was created
+March 03, 2019 06:56: Failed Login: username=695493589@qq.com ip=172.20.0.1
+March 03, 2019 06:57: User Created: username=Carbons email=695493589@qq.com ip=172.20.0.1 confirmed:true
+March 03, 2019 07:24: User Logout: username=Carbons ip=172.20.0.1
+March 03, 2019 07:25: Successful Login: username=Carbons ip=172.20.0.1 method=standard admin=false
+March 03, 2019 07:27: User Logout: username=Carbons ip=172.20.0.1
+March 03, 2019 07:27: Failed Login: username=root ip=172.20.0.1
+March 03, 2019 07:27: Successful Login: username=root ip=172.20.0.1 method=standard admin=true
+March 03, 2019 07:46: User Logout: username=root ip=172.20.0.1
+March 03, 2019 07:46: Failed Login: username=Carbon ip=172.20.0.1
+March 03, 2019 07:46: Failed Login: username=Carbon ip=172.20.0.1
+March 03, 2019 07:46: Failed Login: username=Carbon ip=172.20.0.1
+March 03, 2019 07:47: Successful Login: username=Carbons ip=172.20.0.1 method=standard admin=false
+March 03, 2019 07:53: Successful Login: username=Carbons ip=172.20.0.1 method=standard admin=false
+March 03, 2019 08:10: Carbon created a new project "Carbon / docker-gitlab"
+March 03, 2019 08:17: Attempting to destroy Carbons/docker-gitlab (1)
+March 03, 2019 08:17: Repository "Carbons/docker-gitlab" moved to "Carbons/docker-gitlab+1+deleted" for project "Carbons/docker-gitlab"
+March 03, 2019 08:17: Repository "Carbons/docker-gitlab.wiki" moved to "Carbons/docker-gitlab.wiki+1+deleted" for project "Carbons/docker-gitlab"
+March 03, 2019 08:17: Project "Carbons/docker-gitlab" was removed
+March 03, 2019 08:17: Carbon created a new project "Carbon / docker-gitlab"
+March 03, 2019 08:18: Attempting to destroy Carbons/docker-gitlab (2)
+March 03, 2019 08:18: Repository "Carbons/docker-gitlab" moved to "Carbons/docker-gitlab+2+deleted" for project "Carbons/docker-gitlab"
+March 03, 2019 08:18: Repository "Carbons/docker-gitlab.wiki" moved to "Carbons/docker-gitlab.wiki+2+deleted" for project "Carbons/docker-gitlab"
+March 03, 2019 08:18: Project "Carbons/docker-gitlab" was removed
+March 03, 2019 08:28: Carbon created a new project "Carbon / ProjectTemplate"
+March 03, 2019 08:46: User Logout: username=Carbons ip=172.20.0.1
+March 03, 2019 08:46: Successful Login: username=root ip=172.20.0.1 method=standard admin=true
+March 03, 2019 08:49: User Logout: username=root ip=172.20.0.1
+March 03, 2019 08:49: Successful Login: username=Carbons ip=172.20.0.1 method=standard admin=false

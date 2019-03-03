@@ -1,0 +1,10 @@
+I, [2019-03-03T06:40:03.291540 #1104]  INFO -- : Refreshing Gem list
+I, [2019-03-03T06:40:53.052807 #1104]  INFO -- : listening on addr=127.0.0.1:8080 fd=22
+I, [2019-03-03T06:40:53.053334 #1104]  INFO -- : listening on addr=/var/opt/gitlab/gitlab-rails/sockets/gitlab.socket fd=23
+I, [2019-03-03T06:40:53.181248 #1104]  INFO -- : master process ready
+I, [2019-03-03T06:40:53.295944 #1450]  INFO -- : worker=1 ready
+I, [2019-03-03T06:40:53.303620 #1447]  INFO -- : worker=0 ready
+unknown OID 28: failed to recognize type of 'relfrozenxid'. It will be treated as String.
+unknown OID 1034: failed to recognize type of 'relacl'. It will be treated as String.
+unknown OID 28: failed to recognize type of 'relfrozenxid'. It will be treated as String.
+unknown OID 1034: failed to recognize type of 'relacl'. It will be treated as String.
